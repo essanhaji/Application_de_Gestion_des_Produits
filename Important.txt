@@ -1,0 +1,5 @@
+veuillez changer le lien de ConectionString Access par le lien que vous avez fait le projet
+le lien dans le fichier produis dans la class methods:
+C:\Users\Elhoucine ES_SANHAJI\Documents\Visual Studio 2015\Projects\Application_de_Gestion_des_Produits\mydbaccess.accdb
+par votre lien 
+
